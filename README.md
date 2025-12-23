@@ -7,4 +7,4 @@ MelonLoader: https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.1
 
 .NET 6.0: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
-You can find the mods here:
+You can find the mods here: link will be added soon

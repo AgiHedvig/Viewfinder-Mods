@@ -3,4 +3,4 @@ If you want the projects to work you will have to go to Viewfinder\MelonLoader\I
 
 MelonLoader: https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.1
 
-.net 6.0: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+.NET 6.0: https://dotnet.microsoft.com/en-us/download/dotnet/6.0

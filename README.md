@@ -5,6 +5,7 @@ Go to Viewfinder\MelonLoader\net6 and add MelonLoader.dll, 0Harmony.dll and Il2C
 When you build solution you can find the mod dll you have to add to the mods folder in ProjectName\bin\Debug\net6.0 and then its named ProjectName.dll.
 
 You can use these files for making your own mods or if you just want to look at the projects.
+
 Remember to change the AssemblyInfo1.cs if you are making a mod.
 
 MelonLoader: https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.1

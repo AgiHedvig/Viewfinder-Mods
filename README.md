@@ -1,5 +1,7 @@
 # Important
-If you want the projects to work you will have to go to Viewfinder\MelonLoader\Il2CppAssemblies and add the Assembly-CSharp.dll as a reference in Visual Studio. You will also have to use .net 6.0.
+If you want the projects to work you will have to go to Viewfinder\MelonLoader\Il2CppAssemblies and add every file as a reference in Visual Studio. Go to Viewfinder\MelonLoader\net6 and add MelonLoader.dll and 0Harmony.dll as a reference. 
+
+You will also have to use .net 6.0. When you build solution you can find the mod dll you have to add to the mods folder in ProjectName\bin\Debug\net6.0 and then its named ProjectName.dll.
 
 You can use these files for making your own mods or if you just want to look at the projects.
 

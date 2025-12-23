@@ -11,3 +11,8 @@ MelonLoader: https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.1
 .NET 6.0: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 You can find the mods here: link will be added soon
+
+# Useful Modding Stuff
+CinematicUnityExplorer is useful for looking at stuff ingame and testing mods/ideas: https://github.com/originalnicodr/CinematicUnityExplorer
+
+You can go to Viewfinder\MelonLoader\Dependencies\Il2CppAssemblyGenerator\Cpp2IL\cpp2il_out and find ViewfinderAssembly.dll. You can open this with dnspy and look at methods, variables and other stuff in the code that you can modify with a harmony patch: https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8
